@@ -11,6 +11,7 @@ Highly proficient in **Python and advanced data visualization**, with strong com
 
 **Languages & Tools**  
 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Torch) · SQL · R · C# · Excel  
+ 
 
 **Machine Learning & Analytics**  
 Classification · Regression · Clustering · Anomaly Detection  
@@ -80,8 +81,10 @@ Presented at **ASSET 2024 Conference**
 
 ## 📜 Certifications & Learning
 
-- CompTIA Security+ (SY0-701)  
-- AI & Machine Learning Data Science Bootcamp  
+<p align="left">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Data%20Science%20Bootcamp-6A1B9A?style=for-the-badge" />
+</p>
 
 ---
 
