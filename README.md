@@ -1,106 +1,128 @@
-# 👋 Hi, I'm Oluwatoyin Bakare
+## Oluwatoyin Bakare  
+### Data Scientist (Machine Learning | Predictive Modeling | Anomaly Detection | Analytics | AI)
 
-## 🚀 Data Scientist | Machine Learning Enthusiast | Problem Solver
+Data Science postgraduate with **3+ years of industry experience** transforming complex data into actionable insights. Proven track record delivering measurable outcomes across **AI/ML applications, anomaly detection, time-series forecasting, and predictive modeling**.
 
-Welcome to my GitHub profile!  
-I’m **Oluwatoyin Bakare**, a passionate **Data Scientist** with a strong interest in transforming data into actionable insights, building predictive models, and solving real-world problems using data.
-
----
-
-## 🧠 About Me
-
-- 📊 Data Scientist with experience in **data analysis, machine learning, and statistical modeling**
-- 🧩 I enjoy working with **complex datasets** and uncovering meaningful patterns
-- 🌍 Interested in applying data science to **business, technology, and social impact**
-- 📈 Continuously learning and improving my skills in **AI and advanced analytics**
+Highly proficient in **Python and advanced data visualization**, with strong communication skills that bridge technical and non-technical teams. Passionate about applying data science to real-world problems, supporting strategic decisions, and creating positive social impact through data-driven solutions.
 
 ---
 
-## 🛠️ Technical Skills
+## 🧰 Tech Stack
 
-### **Programming & Query Languages**
-- Python  
-- SQL  
-- R (basic)
+**Languages & Tools**  
+Python (Pandas, NumPy, Scikit-learn, Matplotlib, Torch) · SQL · R · C# · Excel  
 
-### **Data Science & Machine Learning**
-- Exploratory Data Analysis (EDA)
-- Supervised & Unsupervised Learning
-- Feature Engineering
-- Model Evaluation & Optimization
-- Time Series Analysis (basic)
+**Machine Learning & Analytics**  
+Classification · Regression · Clustering · Anomaly Detection  
+CNNs · Time Series Forecasting · Feature Engineering  
 
-### **Libraries & Frameworks**
-- NumPy
-- Pandas
-- Matplotlib & Seaborn
-- Scikit-learn
-- TensorFlow / PyTorch (basic)
-- Statsmodels
+**Frameworks & Platforms**  
+Git · GitHub · Hugging Face (familiar) · Jupyter Notebook  
 
-### **Data & Visualization Tools**
-- Jupyter Notebook
-- Power BI / Tableau (if applicable)
-- Excel / Google Sheets
-
-### **Other Tools**
-- Git & GitHub
-- VS Code
-- Linux (basic)
+**Professional Skills**  
+Agile Collaboration · Stakeholder Engagement · Data Ethics  
+Technical Documentation · Teamwork · Communication  
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Core Data Science Focus
 
-Here are some of the projects you’ll find on my GitHub:
+📊 **Exploratory Data Analysis & Visualization**  
+- Data cleaning, transformation, and statistical exploration  
+- Insight-driven visual storytelling  
 
-### 🔹 Data Analysis Projects
-- Cleaning, analyzing, and visualizing real-world datasets
-- Insights generation and storytelling with data
+🤖 **Machine Learning & AI**  
+- Supervised and unsupervised learning models  
+- Deep learning with Convolutional Neural Networks (CNNs)  
+- Model evaluation and performance optimization  
 
-### 🔹 Machine Learning Projects
-- Classification and regression models
-- Model comparison and performance tuning
-- End-to-end ML pipelines
+📈 **Predictive & Time-Series Modeling**  
+- Energy demand forecasting  
+- Trend analysis and anomaly detection  
 
-### 🔹 Exploratory & Practice Projects
-- Kaggle-style datasets
-- Experimentation with new algorithms and techniques
+🧠 **Business & Operational Analytics**  
+- Translating models into decision-ready insights  
+- Communicating findings to non-technical stakeholders  
 
-> 📌 *Each repository includes clear documentation, notebooks, and reproducible results.*
-
----
-
-## 📊 What I’m Currently Working On
-
-- Improving machine learning model performance
-- Building more end-to-end data science projects
-- Learning advanced deep learning concepts
-- Writing cleaner, more maintainable code
+Each project is built with **clarity, reproducibility, and real-world impact** in mind.
 
 ---
 
-## 🤝 Collaboration & Interests
+## 💻 Featured Projects
 
-I’m open to:
-- Collaborating on **data science and machine learning projects**
-- Open-source contributions
-- Research-oriented or real-world data problems
+### 🧠 Deepfake Detection Using CNN
+- Designed and trained a **deep learning CNN model** to improve deepfake detection accuracy  
+- Applied image preprocessing, feature extraction, and model optimization  
+- Focused on robustness and real-world applicability  
 
----
+### 🚗 Car Advert Price Analysis
+- Conducted **exploratory data analysis** on vehicle advertisement datasets  
+- Performed feature engineering and **regression modeling** to predict car prices  
+- Delivered interpretable insights to explain pricing drivers  
 
-## 📫 Let’s Connect
-
-- **GitHub:** [github.com/your-username](https://github.com/your-username)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Email:** your.email@example.com
-
----
-
-## ⚡ Fun Fact
-
-I enjoy turning raw, messy data into meaningful insights and elegant solutions.
+### 🍔 Food Image Classification
+- Built and trained **CNN-based image classification models**  
+- Achieved high accuracy through data augmentation and hyperparameter tuning  
+- Project later contributed to a **peer-reviewed publication**  
 
 ---
 
-⭐ *If you find my work interesting, feel free to star my repositories and follow me!*
+## 🏢 Professional Experience (Highlights)
+
+**Data Analyst — Transmission Company of Nigeria**  
+- Forecasted energy demand using **time-series analysis and anomaly detection**  
+- Applied classification and regression to uncover power distribution inefficiencies  
+- Delivered actionable insights through Excel-based reporting  
+- Improved data pipeline efficiency via cross-functional collaboration  
+
+**Remote Data Annotator — Outlier AI**  
+- Labeled and validated datasets for AI/ML training across multiple domains  
+- Maintained high-quality data under strict accuracy and deadline requirements  
+- Collaborated with globally distributed remote teams  
+
+---
+
+## 🎓 Education
+
+**MSc. Data Science**  
+Manchester Metropolitan University (2023 – 2024)
+
+**MSc. Information Systems & Information Management**  
+University of Leeds (2018 – 2019)
+
+**BSc. Information Systems & International Business**  
+University of Keele (2015 – 2018)
+
+---
+
+## 📄 Publications
+
+**Bakare, O. et al. (2025)**  
+*A Study on Food Classification Using Convolutional Neural Network*  
+Springer – Signals and Communication Technology (SCT)  
+Presented at **ASSET 2024 Conference**  
+
+---
+
+## 📜 Certifications & Learning
+
+- CompTIA Security+ (SY0-701)  
+- AI & Machine Learning Data Science Bootcamp  
+
+---
+
+## 👨🏽‍💻 Philosophy
+
+> *“Great data science turns uncertainty into clarity and insight into action.”*
+
+---
+
+## 🤝 Community & Volunteering
+
+- Regular volunteer supporting **data-driven and technical operations** at my local church  
+- Assist with lighting setup and control during services  
+
+---
+
+📫 **Connect**
+- GitHub: https://github.com/your-use
