@@ -67,33 +67,7 @@ Each project is built with **clarity, reproducibility, and real-world impact** i
 
 ---
 
-## 🏢 Professional Experience (Highlights)
 
-**Data Analyst — Transmission Company of Nigeria**  
-- Forecasted energy demand using **time-series analysis and anomaly detection**  
-- Applied classification and regression to uncover power distribution inefficiencies  
-- Delivered actionable insights through Excel-based reporting  
-- Improved data pipeline efficiency via cross-functional collaboration  
-
-**Remote Data Annotator — Outlier AI**  
-- Labeled and validated datasets for AI/ML training across multiple domains  
-- Maintained high-quality data under strict accuracy and deadline requirements  
-- Collaborated with globally distributed remote teams  
-
----
-
-## 🎓 Education
-
-**MSc. Data Science**  
-Manchester Metropolitan University (2023 – 2024)
-
-**MSc. Information Systems & Information Management**  
-University of Leeds (2018 – 2019)
-
-**BSc. Information Systems & International Business**  
-University of Keele (2015 – 2018)
-
----
 
 ## 📄 Publications
 
